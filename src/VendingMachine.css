@@ -1,0 +1,9 @@
+.VendingMachine-nav a{
+    padding: 15px;
+}
+
+.VendingMachine-nav .active{
+    padding: 15px;
+    font-size: 22.5px;
+}
+
